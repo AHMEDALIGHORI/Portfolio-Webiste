@@ -63,3 +63,14 @@ Ensure you have the following installed:
 
 ---
 © 2024 Ahmed Ali Ghori. All rights reserved.
+
+
+## Suggested GitHub Topics
+
+~~~text
+react vite frontend web-app typescript tailwindcss portfolio personal-website
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
